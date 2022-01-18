@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 I'm Akash Gupta
 
 - 🔭 I’m currently working on some project ideas
 - 🌱 I’m currently learning Blockchain and Python
